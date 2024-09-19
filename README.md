@@ -1,8 +1,6 @@
 # Project Background
 
-We came across a dataset of coffee sales from a machine, containing fewer than 1000 rows and 6 columns.![image](https://github.com/user-attachments/assets/18191350-71b5-4218-893e-be9f7ed9ec0b)
-
-
+We came across a dataset of coffee sales from a machine, containing fewer than 1000 rows and 6 columns.
 
 # Cleaning Process
 The first thing we noticed was the .CSV file. We opened Excel to use Power Query to convert the file. Once we did that, we began the cleaning process.
